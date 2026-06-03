@@ -14,7 +14,8 @@ const firebaseConfig = {
   projectId: "rate-my-pet-87c4f",
   storageBucket: "rate-my-pet-87c4f.firebasestorage.app",
   messagingSenderId: "768851027940",
-  appId: "1:768851027940:web:8f2e0ebe45abb3e497c9f1"
+  appId: "1:768851027940:web:8f2e0ebe45abb3e497c9f1",
+  databaseURL: "https://rate-my-pet-87c4f-default-rtdb.europe-west1.firebasedatabase.app/",
 };
 
 // Initialize Firebase
